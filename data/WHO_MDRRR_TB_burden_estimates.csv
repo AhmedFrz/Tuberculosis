@@ -1,0 +1,11 @@
+country,iso2,iso3,iso_numeric,g_whoregion,year,source_rr_new,e_rr_pct_new,e_rr_pct_new_lo,e_rr_pct_new_hi,source_rr_ret,e_rr_pct_ret,e_rr_pct_ret_lo,e_rr_pct_ret_hi,e_inc_rr_num,e_inc_rr_num_lo,e_inc_rr_num_hi,e_rr_in_notified_labconf_pulm,e_rr_in_notified_labconf_pulm_lo,e_rr_in_notified_labconf_pulm_hi
+Pakistan,PK,PAK,586,EMR,2015,Survey & Surveillance,3.7,3.3,4.2,Survey & Surveillance,13,12,14,23000,14000,32000,4600,4100,5200
+Pakistan,PK,PAK,586,EMR,2016,Survey & Surveillance,3.5,3.1,3.8,Survey & Surveillance,11,11,12,21000,14000,29000,6100,5600,6500
+Pakistan,PK,PAK,586,EMR,2017,Survey & Surveillance,3.2,3,3.5,Survey & Surveillance,10,9.3,11,20000,13000,27000,5700,5300,6000
+Pakistan,PK,PAK,586,EMR,2018,Survey & Surveillance,3,2.8,3.2,Survey & Surveillance,8.7,8.2,9.2,19000,13000,25000,5200,5000,5500
+Pakistan,PK,PAK,586,EMR,2019,Survey & Surveillance,2.8,2.6,2.9,Survey & Surveillance,7.6,7.2,7.9,18000,12000,24000,4400,4200,4600
+Pakistan,PK,PAK,586,EMR,2020,Survey & Surveillance,2.6,2.4,2.7,Survey & Surveillance,6.6,6.3,6.8,17000,11000,22000,3300,3100,3400
+Pakistan,PK,PAK,586,EMR,2021,Survey & Surveillance,2.4,2.2,2.6,Survey & Surveillance,5.7,5.5,5.9,16000,11000,22000,3900,3600,4100
+Pakistan,PK,PAK,586,EMR,2022,Survey & Surveillance,2.2,2,2.5,Survey & Surveillance,5,4.7,5.2,16000,10000,21000,4400,4000,4700
+Pakistan,PK,PAK,586,EMR,2023,Survey & Surveillance,2.1,1.8,2.4,Survey & Surveillance,4.3,4.1,4.6,14000,9400,19000,4400,3900,4900
+Pakistan,PK,PAK,586,EMR,2024,Survey & Surveillance,1.9,1.7,2.3,Survey & Surveillance,3.7,3.5,4,14000,8700,18000,4200,3700,4800
