@@ -2,7 +2,7 @@
 
 
 
-# Pakistan TB Data Analysis (2024–2025)  
+# Pakistan TB Data Analysis (2025) 
 ### *100% Dockerized • Zero R Installation • Run in 30 Seconds*
 
 > **WHO Global TB Data** | Clean EDA + Visualizations | Built for **Data Analyst / Public Health** roles
