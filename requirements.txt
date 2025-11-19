@@ -1,8 +1,0 @@
-# 1. Packages ---------------------------------------------------------------
-library(tidyverse)
-library(janitor)
-library(readxl)      # not needed for csv but safe
-library(lubridate)
-library(scales)
-library(ggthemes)
-library(patchwork)

@@ -1,8 +1,4 @@
-"# Tuberculosis" 
-
-
-
-# Pakistan TB Data Analysis (2024–2025)  
+# Pakistan TB Data Analysis (2025)  
 ### *100% Dockerized • Zero R Installation • Run in 30 Seconds*
 
 > **WHO Global TB Data** | Clean EDA + Visualizations | Built for **Data Analyst / Public Health** roles
@@ -75,3 +71,17 @@ Specific files used:
 - MDR/RR-TB burden estimates
 - TB preventive treatment (household contacts)
 - 2024–2025 incidence by age/sex/risk factor
+
+
+
+## Next Steps – Ready for Production
+
+This prototype can be scaled in minutes:
+
+- **Automated pipeline**: Turn the R scripts into a scheduled workflow (GitHub Actions / cron) that pulls latest WHO CSVs → runs EDA + plots, etc
+- **Python alternative**: Re-implement the entire flow with pandas + plotly + Mage AI or Airflow for team-wide scheduled runs.
+- **User-friendly dashboard**: Deploy a live Streamlit app (one click via Docker) so non-technical program managers can explore incidence, resistance trends, and coverage by year with zero code.
+
+Happy to build any of these in a real-world setting.
+
+---
