@@ -73,6 +73,9 @@ Specific files used:
 - 2024–2025 incidence by age/sex/risk factor
 
 
+## Quick snapshot of Docker-RStudio-VScode 
+![image](images/tb.png)
+
 
 ## Next Steps – Ready for Production
 
