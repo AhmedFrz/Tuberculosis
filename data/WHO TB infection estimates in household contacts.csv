@@ -1,0 +1,11 @@
+country,iso2,iso3,iso_numeric,g_whoregion,year,source_hh,e_hh_size,prevtx_data_available,newinc_con_prevtx,newinc_con04_prevtx,ptsurvey_newinc,ptsurvey_newinc_con04_prevtx,e_hh_contacts,e_hh_contacts_lo,e_hh_contacts_hi,e_prevtx_hh_contacts_pct,e_prevtx_hh_contacts_pct_lo,e_prevtx_hh_contacts_pct_hi,e_prevtx_eligible,e_prevtx_eligible_lo,e_prevtx_eligible_hi,e_prevtx_kids_pct,e_prevtx_kids_pct_lo,e_prevtx_kids_pct_hi
+Pakistan,PK,PAK,586,EMR,2015,DHS; 2013-08-01,6.8,0,,,,,720000,710000,740000,,,,110000,100000,120000,,,
+Pakistan,PK,PAK,586,EMR,2016,DHS; 2013-08-01,6.8,0,,,,,750000,730000,760000,,,,120000,110000,130000,,,
+Pakistan,PK,PAK,586,EMR,2017,DHS; 2013-08-01,6.8,0,,,,,750000,740000,770000,,,,120000,100000,130000,,,
+Pakistan,PK,PAK,586,EMR,2018,DHS; 2013-08-01,6.8,60,6146,6146,,,750000,740000,770000,0.82,0.8,0.84,110000,100000,120000,5.4,5,5.9
+Pakistan,PK,PAK,586,EMR,2019,DHS; 2013-08-01,6.8,60,5689,5689,,,710000,700000,730000,0.8,0.78,0.81,110000,97000,120000,5.4,4.9,5.9
+Pakistan,PK,PAK,586,EMR,2020,DHS; 2013-08-01,6.8,60,4317,4145,,,590000,580000,610000,0.73,0.71,0.74,87000,79000,95000,4.8,4.4,5.2
+Pakistan,PK,PAK,586,EMR,2021,DHS; 2013-08-01,6.8,60,5149,3345,,,780000,760000,800000,0.66,0.64,0.67,110000,100000,120000,3,2.7,3.2
+Pakistan,PK,PAK,586,EMR,2022,DHS; 2013-08-01,6.8,60,10824,8182,,,960000,940000,990000,1.1,1.1,1.1,140000,130000,150000,5.9,5.4,6.5
+Pakistan,PK,PAK,586,EMR,2023,DHS; 2013-08-01,6.8,1,33560,3806,,,1100000,1000000,1100000,3.2,3.1,3.2,150000,140000,160000,2.5,2.3,2.8
+Pakistan,PK,PAK,586,EMR,2024,DHS; 2013-08-01,6.8,1,58921,5632,,,1100000,1100000,1100000,5.4,5.3,5.5,150000,140000,170000,3.6,3.3,4
